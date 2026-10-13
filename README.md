@@ -3,8 +3,6 @@ Internal Hackathon for Inter-IIT Tech 15.0
 
 FinAgent
 
-Demo Video: [Insert YouTube Link Here]
-
 A fault-tolerant, RAG-augmented multi-agent system powered by openai/gpt-oss-120b on Groq. It ingests financial documents and live market signals, processing them through a LangGraph state machine to synthesize structured, observable trading decisions.
 
 Tech Stack
